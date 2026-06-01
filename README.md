@@ -1,31 +1,41 @@
 # 🌾 Pearl Millet Care – AI Disease Detection App
 
-AI-powered Android application for Pearl Millet disease detection using Computer Vision, TensorFlow Lite, and Jetpack Compose.
+> Developed as an AI-assisted agricultural disease detection solution for Pearl Millet crop monitoring and field-level disease identification.
+
+Pearl Millet Care is an AI-powered Android application designed to detect common pearl millet crop diseases directly from field images using Computer Vision and Deep Learning.
+
+The application combines TensorFlow Lite, image preprocessing, responsive Android UI design, and bilingual support to provide a farmer-friendly crop disease detection experience.
 
 ---
 
-# 📱 Overview
+# 📱 Project Overview
 
-Pearl Millet Care is a bilingual AI-powered mobile application designed to help identify common pearl millet crop diseases directly from field images.
+This application helps identify pearl millet diseases from crop images captured using a mobile device.
 
-The application uses a multi-stage machine learning pipeline to:
+The system follows a multi-stage prediction workflow:
 
-1. Verify whether the captured image contains a pearl millet crop
-2. Detect the disease category from supported diseases
-3. Display disease information and management guidance
+1. Detect whether the image contains a pearl millet crop
+2. Validate image quality and crop visibility
+3. Predict the disease category
+4. Display disease details and management guidance
 
-The app is designed with a farmer-friendly interface and supports both English and Tamil languages.
+The app is designed for:
+
+* Farmers
+* Agricultural students
+* Researchers
+* Field-level crop monitoring
 
 ---
 
-# ✨ Features
+# ✨ Key Features
 
 ## 🔍 AI-Based Disease Detection
 
-* Real-time disease prediction using TensorFlow Lite
-* Multi-stage validation pipeline
-* Confidence-based prediction system
-* Non-millet image rejection
+* TensorFlow Lite image classification
+* Multi-stage prediction pipeline
+* Confidence-based prediction handling
+* Millet crop validation before prediction
 
 ## 🌱 Supported Diseases
 
@@ -52,25 +62,25 @@ Each disease includes:
 
 ## 📷 Smart Image Validation
 
-The app checks:
+The system validates:
 
 * Crop visibility
-* Image quality
+* Image clarity
 * Millet crop presence
 * Prediction confidence
 
-## 🎨 Responsive UI
+## 🎨 Responsive Mobile UI
 
 * Built using Jetpack Compose
-* Responsive layouts for phones and tablets
+* Responsive layouts for multiple screen sizes
 * Tamil-aware typography scaling
-* Farmer-friendly design system
+* Tablet and foldable-friendly layouts
 
 ---
 
 # 🛠️ Tech Stack
 
-## Android
+## Android Development
 
 * Kotlin
 * Jetpack Compose
@@ -80,70 +90,94 @@ The app checks:
 ## AI / Machine Learning
 
 * TensorFlow Lite
-* OpenCV
 * Python
+* OpenCV
 
 ## Image Processing
 
 * Image preprocessing pipeline
-* Quality validation
-* Confidence threshold handling
+* Image quality analysis
+* Confidence threshold validation
 
-## Architecture
+## Data & Storage
 
-* Compose-based UI architecture
-* State-driven UI rendering
-* Modular reusable composables
+* Room Database
+* DataStore Preferences
 
 ---
 
 # 🧠 AI Prediction Workflow
 
-1. Capture crop image
-2. Validate image quality
-3. Verify millet crop presence
-4. Run disease classification model
-5. Generate prediction confidence
-6. Display disease result and management guidance
+```text
+Capture Image
+      ↓
+Image Quality Validation
+      ↓
+Millet Crop Verification
+      ↓
+Disease Classification
+      ↓
+Confidence Analysis
+      ↓
+Result & Disease Management
+```
 
 ---
 
 # 📂 Project Structure
 
 ```text
-Pearl-Millet-Care
+millet-disease-detection-app/
 │
-├── android-app
-├── ml-model
-├── screenshots
-├── demo
-├── docs
-└── dataset-info
+├── README.md
+├── screenshots/
+├── android-app/
+├── training-code/
+├── inference/
+├── model/
+├── demo/
+└── dataset-info/
 ```
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Screenshots
 
 ## Home Screen
 
-*Add screenshot here*
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-23 at 7 13 07 PM (1)" src="https://github.com/user-attachments/assets/f24b4ded-d401-4bfe-a1f3-e45a61eb2ece" />
 
-## Scan Screen
 
-*Add screenshot here*
-
-## Disease Prediction
+## Camera Scan Screen
 
 *Add screenshot here*
 
-## Tamil UI
+## Disease Prediction Result
 
 *Add screenshot here*
 
-## Disease Management
+## Tamil Interface
 
 *Add screenshot here*
+
+## Disease Management Screen
+
+*Add screenshot here*
+
+---
+
+# 👨‍💻 Role & Contribution
+
+Designed and developed the complete end-to-end mobile application, including:
+
+* Android application development
+* TensorFlow Lite integration
+* AI prediction workflow
+* Image preprocessing pipeline
+* Responsive Jetpack Compose UI
+* Bilingual English/Tamil interface
+* Disease information and management system
+* Multi-stage crop validation workflow
 
 ---
 
@@ -157,25 +191,26 @@ git clone https://github.com/vinitharockiasamy/millet-disease-detection-app.git
 
 ## Open Project
 
-* Open Android Studio
-* Select the `android-app` folder
-* Sync Gradle
+1. Open Android Studio
+2. Select the `android-app` folder
+3. Sync Gradle files
 
-## Run App
+## Run Application
 
-* Connect Android device or emulator
-* Click Run ▶️
+1. Connect Android device or emulator
+2. Click Run ▶️
 
 ---
 
 # 📦 Current Capabilities
 
 * Offline AI prediction
-* Multi-image prediction workflow
+* Mobile disease detection
+* Multi-image prediction support
 * Local disease information system
 * Prediction history support
 * Responsive mobile UI
-* Tamil and English support
+* English and Tamil support
 
 ---
 
@@ -184,7 +219,7 @@ git clone https://github.com/vinitharockiasamy/millet-disease-detection-app.git
 The application has been tested for:
 
 * Camera workflow
-* Prediction flow
+* Disease prediction flow
 * Responsive layouts
 * Tamil UI rendering
 * Image validation handling
@@ -204,9 +239,9 @@ The application has been tested for:
 
 # 🔒 Offline Support
 
-The app works fully offline after installation.
+The application works completely offline after installation.
 
-No internet connection is required for disease detection.
+No internet connection is required for disease detection and prediction.
 
 ---
 
@@ -214,10 +249,10 @@ No internet connection is required for disease detection.
 
 * Additional crop support
 * More disease classes
-* Cloud model updates
+* Remote model update support
 * Advanced analytics dashboard
-* Voice assistance support
-* Fertilizer recommendation module
+* Voice assistance integration
+* Expanded multilingual support
 
 ---
 
@@ -225,17 +260,13 @@ No internet connection is required for disease detection.
 
 Vinith Arockiasamy
 
-* AI & Mobile Application Developer
-* Focus Areas: AI, IoT, Automation, Mobile Applications
+Project Engineer | AI & Mobile Application Development
 
 GitHub:
 https://github.com/vinitharockiasamy
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
+LinkedIn:
+*Add LinkedIn profile here*
 
 ---
 
