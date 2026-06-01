@@ -145,24 +145,23 @@ millet-disease-detection-app/
 
 ## Home Screen
 
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-23 at 7 13 07 PM (1)" src="https://github.com/user-attachments/assets/f24b4ded-d401-4bfe-a1f3-e45a61eb2ece" />
-
+<img width="724" height="1610" alt="image" src="https://github.com/user-attachments/assets/58964bbe-292b-4e7a-bc54-88aa3c698ff3" />
 
 ## Camera Scan Screen
 
-*Add screenshot here*
+<img width="724" height="1610" alt="image" src="https://github.com/user-attachments/assets/1f5d2f52-7467-41f4-af3f-b22eaa191457" />
 
 ## Disease Prediction Result
 
-*Add screenshot here*
+<img width="508" height="1130" alt="image" src="https://github.com/user-attachments/assets/b89509ae-1e9a-477a-8e56-122549050e70" />
 
 ## Tamil Interface
 
-*Add screenshot here*
+<img width="724" height="1610" alt="image" src="https://github.com/user-attachments/assets/b0db73d5-fc19-47c6-b2e7-f0fbd235c774" />
 
 ## Disease Management Screen
 
-*Add screenshot here*
+<img width="508" height="1130" alt="image" src="https://github.com/user-attachments/assets/766b6829-8093-4d04-8765-905e4bca3c3c" />
 
 ---
 
