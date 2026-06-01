@@ -265,7 +265,7 @@ GitHub:
 https://github.com/vinitharockiasamy
 
 LinkedIn:
-*Add LinkedIn profile here*
+https://www.linkedin.com/in/vinitharockiasamy-3oo3
 
 ---
 
