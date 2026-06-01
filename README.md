@@ -161,7 +161,7 @@ millet-disease-detection-app/
 
 ## Disease Management Screen
 
-<img width="508" height="1130" alt="image" src="https://github.com/user-attachments/assets/766b6829-8093-4d04-8765-905e4bca3c3c" />
+<img width="389" height="1695" alt="08_En Disease_Managment-Screen" src="https://github.com/user-attachments/assets/950c368d-7b52-464d-92d1-c334376cf85d" />
 
 ---
 
