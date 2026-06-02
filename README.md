@@ -153,15 +153,15 @@ millet-disease-detection-app/
 
 ## Disease Prediction Result
 
-<img width="508" height="1130" alt="image" src="https://github.com/user-attachments/assets/b89509ae-1e9a-477a-8e56-122549050e70" />
+<img width="766" height="1704" alt="09_En Result_Screen" src="https://github.com/user-attachments/assets/8e4bbc78-a997-487a-9561-52a98df3deb2" />
 
 ## Tamil Interface
 
-<img width="724" height="1610" alt="image" src="https://github.com/user-attachments/assets/b0db73d5-fc19-47c6-b2e7-f0fbd235c774" />
+<img width="515" height="2048" alt="Ta_04 Disease-Detail_Screen" src="https://github.com/user-attachments/assets/468f9240-fefe-497b-b9b2-8b763e581044" />
 
 ## Disease Management Screen
 
-<img width="389" height="1695" alt="08_En Disease_Managment-Screen" src="https://github.com/user-attachments/assets/950c368d-7b52-464d-92d1-c334376cf85d" />
+<img width="409" height="2048" alt="08_En Disease_Managment-Screen" src="https://github.com/user-attachments/assets/de775a97-d2fc-4796-a53b-8c1357bf2e3a" />
 
 ---
 
