@@ -138,7 +138,6 @@ millet-disease-detection-app/
 ├── gradlew
 ├── gradlew.bat
 └── gradle.properties
-```
 
 ```
 
