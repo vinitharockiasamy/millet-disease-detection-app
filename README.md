@@ -129,14 +129,17 @@ Result & Disease Management
 ```text
 millet-disease-detection-app/
 │
-├── README.md
+├── app/
+├── gradle/
 ├── screenshots/
-├── android-app/
-├── training-code/
-├── inference/
-├── model/
-├── demo/
-└── dataset-info/
+├── README.md
+├── build.gradle.kts
+├── settings.gradle.kts
+├── gradlew
+├── gradlew.bat
+└── gradle.properties
+```
+
 ```
 
 ---
