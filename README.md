@@ -153,7 +153,7 @@ millet-disease-detection-app/
 
 ## Disease Prediction Result
 
-<img width="766" height="1704" alt="09_En Result_Screen" src="https://github.com/user-attachments/assets/8e4bbc78-a997-487a-9561-52a98df3deb2" />
+<img width="766" height="1704" alt="09_En Result_Screen" src="https://github.com/user-attachments/assets/e621c006-e130-4799-a1ec-8d16f38d36ce" />
 
 ## Tamil Interface
 
