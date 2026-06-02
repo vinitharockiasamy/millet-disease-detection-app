@@ -145,11 +145,11 @@ millet-disease-detection-app/
 
 ## Home Screen
 
-<img width="724" height="1610" alt="image" src="https://github.com/user-attachments/assets/58964bbe-292b-4e7a-bc54-88aa3c698ff3" />
+<img width="766" height="1704" alt="04_En Home_Screen" src="https://github.com/user-attachments/assets/ba01e1d4-b2ed-47de-9f9c-c9811ed4db57" />
 
 ## Camera Scan Screen
 
-<img width="724" height="1610" alt="image" src="https://github.com/user-attachments/assets/1f5d2f52-7467-41f4-af3f-b22eaa191457" />
+<img width="766" height="1704" alt="05_En Camera-Scan_Screen" src="https://github.com/user-attachments/assets/56399038-7c60-4ab8-b804-ada8848144b2" />
 
 ## Disease Prediction Result
 
