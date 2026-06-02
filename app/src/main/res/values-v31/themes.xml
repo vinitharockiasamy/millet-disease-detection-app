@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.PearlMilletCare" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/page_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="android:windowSplashScreenAnimationDuration">850</item>
+    </style>
+</resources>
